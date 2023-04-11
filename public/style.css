@@ -1,0 +1,56 @@
+.silver{
+    background-color: silver;
+}
+
+.gold{
+    background-color: goldenrod;
+}
+
+.red{
+    background-color: rgba(212, 68, 68, 0.788);
+}
+
+.heading{
+    font-size: 50px;
+    font-weight: 800;
+    position: relative;
+}
+
+.kartu{
+    border-radius: 20px;
+}
+
+.foto{
+    width: auto;
+    justify-items: center;
+}
+
+.card-img-top{
+    width: 30% !important;
+}
+
+.productnametitle
+{
+    color: black;
+    font-size: auto;
+    font-weight: 900;
+}
+
+.productnamedesc
+{
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.productnamestats
+{
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.productnameprice
+{
+    color: rgb(37, 31, 14);
+    font-size: 40px;
+    font-weight: 800;
+}
