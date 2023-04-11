@@ -5,11 +5,11 @@
 
 Pada kuis kali ini, saya menggunakan card wars ini sebagai product yang saya pasarkan pada website saya. Dimana halaman list produk, saya menampilkan foto produk, nama produk, deskripsi produk, dan juga status yang membuat tiap produk berbeda dengan warna background yang berbeda berdasarkan tiap status kartunya dan yang paling penting adalah harganya. Namun, perlu diingat. Konten hanyalah sebatas kebutuhan tugas yang direkayasa sedemikian rupa sehingga menjadi sebuah website dari kuis kali ini. 
 
-Pada halaman utama yaitu halaman product.
+Pada halaman utama yaitu halaman product. <br>
 Untuk masuk ke product ini perlu menggunakan local host + "/product"
 ![Code](https://github.com/fnynglv/QuisWP/blob/main/public/dokumentasi/PageProduct.png)
 
-Kemudian jika product di-klik, maka halaman akan berpindah ke halaman deskripsi dari produk yang dipilih.
+Kemudian jika product di-klik, maka halaman akan berpindah ke halaman deskripsi dari produk yang dipilih. <br>
 Pada address akan berubah berdasarkan nama dari produk dengan menggunakan bantuan yield.
 
 Misalnya kartu dengan status R
@@ -21,6 +21,6 @@ Misalnya kartu dengan status SR
 Misalnya kartu dengan status SSR
 ![Code](https://github.com/fnynglv/QuisWP/blob/main/public/dokumentasi/PageProductSSR.png)
 
-Sekian yang dapat saya demo-kan dari website ini. 
-Semoga kita dapat lebih tertarik terhadap kartu ini dan membantu melestarikan UMKM.
+Sekian yang dapat saya demo-kan dari website ini. <br>
+Semoga kita dapat lebih tertarik terhadap kartu ini dan membantu melestarikan UMKM. <br>
 Terima kasih dan salam sejahtera.
