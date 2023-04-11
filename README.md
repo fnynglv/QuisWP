@@ -7,19 +7,19 @@ Pada kuis kali ini, saya menggunakan card wars ini sebagai product yang saya pas
 
 Pada halaman utama yaitu halaman product.
 Untuk masuk ke product ini perlu menggunakan local host + "/product"
-![Code](https://github.com/fnynglv/QuisWP/blob/main/dokumentasi/PageProduct.png)
+![Code](https://github.com/fnynglv/QuisWP/blob/main/public/dokumentasi/PageProduct.png)
 
 Kemudian jika product di-klik, maka halaman akan berpindah ke halaman deskripsi dari produk yang dipilih.
 Pada address akan berubah berdasarkan nama dari produk dengan menggunakan bantuan yield.
 
 Misalnya kartu dengan status R
-![Code](https://github.com/fnynglv/QuisWP/blob/main/dokumentasi/PageProductR.png)
+![Code](https://github.com/fnynglv/QuisWP/blob/main/public/dokumentasi/PageProductR.png)
 
 Misalnya kartu dengan status SR
-![Code](https://github.com/fnynglv/QuisWP/blob/main/dokumentasi/PageProductSR.png)
+![Code](https://github.com/fnynglv/QuisWP/blob/main/public/dokumentasi/PageProductSR.png)
 
 Misalnya kartu dengan status SSR
-![Code](https://github.com/fnynglv/QuisWP/blob/main/dokumentasi/PageProductSSR.png)
+![Code](https://github.com/fnynglv/QuisWP/blob/main/public/dokumentasi/PageProductSSR.png)
 
 Sekian yang dapat saya demo-kan dari website ini. 
 Semoga kita dapat lebih tertarik terhadap kartu ini dan membantu melestarikan UMKM.
