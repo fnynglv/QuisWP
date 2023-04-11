@@ -6,17 +6,17 @@
 Pada kuis kali ini, saya menggunakan card wars ini sebagai product yang saya pasarkan pada website saya. Dimana halaman list produk, saya menampilkan foto produk, nama produk, deskripsi produk, dan juga status yang membuat tiap produk berbeda dengan warna background yang berbeda berdasarkan tiap status kartunya dan yang paling penting adalah harganya. Namun, perlu diingat. Konten hanyalah sebatas kebutuhan tugas yang direkayasa sedemikian rupa sehingga menjadi sebuah website dari kuis kali ini. 
 
 Pada halaman utama yaitu halaman product
-![Code](https://github.com/fnynglv/QuizWP/blob/main/dokumentasi/PageProduct.png)
+![Code](https://github.com/fnynglv/QuisWP/blob/main/dokumentasi/PageProduct.png)
 
 Kemudian jika product di-klik, maka halaman akan berpindah ke halaman deskripsi dari produk yang dipilih.
 Misalnya kartu dengan status R
-![Code](https://github.com/fnynglv/QuizWP/blob/main/dokumentasi/PageProductR.png)
+![Code](https://github.com/fnynglv/QuisWP/blob/main/dokumentasi/PageProductR.png)
 
 Misalnya kartu dengan status R
-![Code](https://github.com/fnynglv/QuizWP/blob/main/dokumentasi/PageProductSR.png)
+![Code](https://github.com/fnynglv/QuisWP/blob/main/dokumentasi/PageProductSR.png)
 
 Misalnya kartu dengan status R
-![Code](https://github.com/fnynglv/QuizWP/blob/main/dokumentasi/PageProductSSR.png)
+![Code](https://github.com/fnynglv/QuisWP/blob/main/dokumentasi/PageProductSSR.png)
 
 Sekian yang dapat saya demo-kan dari website ini. 
 Semoga kita dapat lebih tertarik terhadap kartu ini dan membantu melestarikan UMKM.
