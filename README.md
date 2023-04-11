@@ -15,10 +15,10 @@ Pada address akan berubah berdasarkan nama dari produk dengan menggunakan bantua
 Misalnya kartu dengan status R
 ![Code](https://github.com/fnynglv/QuisWP/blob/main/dokumentasi/PageProductR.png)
 
-Misalnya kartu dengan status R
+Misalnya kartu dengan status SR
 ![Code](https://github.com/fnynglv/QuisWP/blob/main/dokumentasi/PageProductSR.png)
 
-Misalnya kartu dengan status R
+Misalnya kartu dengan status SSR
 ![Code](https://github.com/fnynglv/QuisWP/blob/main/dokumentasi/PageProductSSR.png)
 
 Sekian yang dapat saya demo-kan dari website ini. 
