@@ -20,4 +20,4 @@ Misalnya kartu dengan status R
 
 Sekian yang dapat saya demo-kan dari website ini. 
 Semoga kita dapat lebih tertarik terhadap kartu ini dan membantu melestarikan UMKM.
-Terima kasih.
+Terima kasih dan salam sejahtera.
